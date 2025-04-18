@@ -28,10 +28,6 @@ Built using **Python**, **MySQL**, and **Streamlit**, this system offers a clean
 ## 🛠️ Setup Instructions
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/supermarket_management_system.git
-   cd supermarket_management_system
-   ```
 
 2. **Install dependencies**
    ```bash
