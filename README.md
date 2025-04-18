@@ -1,8 +1,10 @@
 
 # 🛒 Supermarket Management System
 
-A **database-driven application** designed to manage essential operations in a supermarket—covering customers, employees, products, carts, store inventory, and payments.  
-Built using **Python**, **MySQL**, and **Streamlit**, this system offers a clean UI and full **CRUD functionality**.
+A **database-powered supermarket management system**that streamlines core operations—managing customers, employees, products, shopping carts, inventory, and payments.
+Built with **Python**, **MySQL**, and **Streamlit**, it delivers a user-friendly interface and supports complete **CRUD functionality** for efficient data handling.
+
+
 
 ---
 
